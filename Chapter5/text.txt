@@ -1,0 +1,5 @@
+The code is much simpler now with each function doing one small thing.
+We can move
+all these functions into a separate module and reuse
+it in
+their programs.
